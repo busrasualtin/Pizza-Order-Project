@@ -1,0 +1,20 @@
+* Please pick a type of your Pizza:
+1: Classic Pizza
+2: Margarita Pizza
+3: Turkish Pizza
+4: Mexican Pizza
+5: Full Up Pizza
+6: Pizza with Sausage
+7: Meat Pizza
+8: Chicken and Barbeque Pizza
+9: Vegetarian Pizza
+* You have to pick your extra ingredient:
+10: Cheese
+11: Olive
+12: Mushroom
+13: Bacon
+14: Chicken
+15: Veal
+16: Corn
+17: Onion
+* Thanks for choosing your order!
